@@ -26,6 +26,7 @@ Point of Sale (POS) application built using the MERN stack (MongoDB, Express.js,
   - bcryptjs for password hashing
 
 ## Screenshots
+for Screenshots check images folder
 
 ## Usage
 
