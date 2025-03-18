@@ -1,4 +1,4 @@
-# SWIFTBITES POS Application
+# MERN POS Application
 
 Point of Sale (POS) application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application provides functionalities for managing sales transactions, including user authentication, order processing, generating bills, and accessing customer details.
 
@@ -26,7 +26,6 @@ Point of Sale (POS) application built using the MERN stack (MongoDB, Express.js,
   - bcryptjs for password hashing
 
 ## Screenshots
-for Screenshots check images folder
 
 ## Usage
 
